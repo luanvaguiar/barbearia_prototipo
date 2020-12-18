@@ -1,4 +1,4 @@
-# barbearia_prototipo
+# Protótipo Barbearia
 Sistemas de Reservas para uma Barbearia
 
 # Objetivo Geral
